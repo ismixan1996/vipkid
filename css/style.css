@@ -19,7 +19,7 @@
 }
 .trial-button{
     margin-top: 5%;
-    height: 34px;
+    height: 1.5rem;
     line-height: 3px;
     padding: 0 10px;
     border-radius: 7px;
@@ -44,4 +44,10 @@ body{
 
 .third-section{
     background-color:#fff8eb ;
+    border-radius: 5px;
+}
+
+.six-section{
+    
+    align-items: center;
 }
