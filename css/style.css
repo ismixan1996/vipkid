@@ -1,0 +1,47 @@
+.img-box {
+    max-width: 100% !important;
+    height: auto;
+    object-fit: cover;
+}
+
+
+
+.img-div{
+    margin-bottom: 5%;
+    
+}
+
+
+.first-text{
+    text-align: center;
+    /* max-height: 100%; */
+    font-family: RobotoSlabMedium;
+}
+.trial-button{
+    margin-top: 5%;
+    height: 34px;
+    line-height: 3px;
+    padding: 0 10px;
+    border-radius: 7px;
+    background-color: #f85415;
+    color: aliceblue;
+    text-align: center;
+    cursor: pointer;
+}
+.card{
+    border: 0px !important;
+}
+
+
+body{
+    background-color: #ffffff;
+}
+
+.card-p{
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+
+.third-section{
+    background-color:#fff8eb ;
+}
